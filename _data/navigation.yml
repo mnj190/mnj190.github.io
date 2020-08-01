@@ -3,6 +3,6 @@ main:
   - title: "블로그 바로가기"
     url: https://mnj190.github.io/
   - title: "프로그래밍"
-    url: /programming/index.html/
+    url: /programming/index/
   - title: "About"
     url: /about/
