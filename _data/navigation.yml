@@ -4,5 +4,7 @@ main:
     url: https://mnj190.github.io/
   - title: "프로그래밍"
     url: /programming/
+  - title: "수업 정리"
+    url: /memo/
   - title: "About"
     url: /about/
