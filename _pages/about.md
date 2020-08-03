@@ -1,5 +1,5 @@
 ---
 filename: "about.md"
-permalink: /about/.html
+permalink: /about/
 ---
 about page test
