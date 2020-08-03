@@ -2,7 +2,11 @@
 filename: "programming.md"
 permalink: /programming/
 author_profile: true
-
+sidebar:
+  - title: "Title"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
 ---
 sidebar:
   - title: "Title"
