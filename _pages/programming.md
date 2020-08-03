@@ -1,6 +1,7 @@
 ---
 filename: "programming.md"
 permalink: /programming/
+author_profile: false
 sidebar:
   - title: "Title"
     text: "Some text here."
