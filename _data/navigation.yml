@@ -13,8 +13,8 @@ main:
 docs:
   - title: Getting Started
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
+      - title: "JSP 태그 사용"
+        url: /memo/tag/
       - title: "Structure"
         url: /docs/structure/
       - title: "Installation"
