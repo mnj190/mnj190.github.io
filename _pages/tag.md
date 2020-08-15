@@ -1,6 +1,6 @@
 ---
 filename: "tag.md"
-permalink: /tag/
+permalink: memo/tag/
 ---
 	<c:set var = "변수명" value = "변수" />
 	<c:remove var = "변수명" />
