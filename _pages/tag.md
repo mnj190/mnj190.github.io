@@ -3,6 +3,10 @@ filename: "tag.md"
 permalink: memo/tag/
 ---
 
+.C태그
+
+	<%@ taglib prefix="c"   uri="http://java.sun.com/jsp/jstl/core" %>
+	
 	//변수 선언	
 	<c:set var = "변수명" value = "변수" />
 	
