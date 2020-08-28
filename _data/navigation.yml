@@ -15,8 +15,8 @@ docs:
     children:
       - title: "JSP 태그 사용"
         url: /memo/tag/
-      - title: "Structure"
-        url: /docs/structure/
+      - title: "JSP에서 Controller로 데이터 전송"
+        url: /memo/jsp2controller/
       - title: "Installation"
         url: /docs/installation/
       - title: "Upgrading"
