@@ -1,13 +1,6 @@
 ---
 filename: "tag.md"
-permalink: memo/tag/
+permalink: memo/jsp2controller/
 ---
-
-.form 태그
-
-.c 태그
-
-.requestBody
-
 
 .ajax
