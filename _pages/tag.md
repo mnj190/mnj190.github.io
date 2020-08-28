@@ -1,6 +1,9 @@
 ---
 filename: "tag.md"
 permalink: memo/tag/
+author_profile: false
+sidebar:
+  nav: "docs"
 ---
 
 .C태그
